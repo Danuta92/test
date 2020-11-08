@@ -1,2 +1,2 @@
-#Nauka Pythona
+Nauka Pythona
 git
